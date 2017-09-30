@@ -1,6 +1,6 @@
 {
   "name": "vile-ruby",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Vile meta plugin for analyzing your Ruby code and ecosystem.",
   "repository": {
     "type": "git",
