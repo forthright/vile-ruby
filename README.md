@@ -26,7 +26,7 @@
     * [Dependencies](#dependencies)
     * [Duplicate](#duplicate)
     * [Security](#security)
-    * [Statistics](#statistics)
+    * [File Statistics](#file-statistics)
     * [Commit Info](#commit-info)
     * [Lint Tools](#lint-tools)
 5. [Frameworks](#frameworks)
@@ -108,7 +108,7 @@ Depending on your `gem` setup, you may need to do this:
     </td>
   </tr>
   <tr>
-    <td id="statistics">File Statistics</td>
+    <td id="file-statistics">File Statistics</td>
     <td>
       <a href="https://github.com/forthright/vile-stat">vile-stat</a>
     </td>
@@ -120,7 +120,7 @@ Depending on your `gem` setup, you may need to do this:
     </td>
   </tr>
   <tr>
-    <td id="general-lint-tools">Lint Tools</td>
+    <td id="lint-tools">Lint Tools</td>
     <td>
       <p>Included:</p>
       <ul>
